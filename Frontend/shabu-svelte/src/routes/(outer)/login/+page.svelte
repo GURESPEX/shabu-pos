@@ -44,7 +44,7 @@
 			/>
 			<div class="flex items-center space-x-2">
 				<Checkbox id="terms" bind:checked={showPassword} />
-				<Label for="terms">Accept terms and conditions</Label>
+				<Label for="terms">Show Password</Label>
 			</div>
 		</div>
 		<div class="flex flex-col gap-2">
